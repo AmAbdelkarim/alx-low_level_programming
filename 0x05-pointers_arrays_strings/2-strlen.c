@@ -5,8 +5,7 @@
  *
  * @s: string parameter input
  *
- * return: lenght of a string
- * return _strlen = sucess make return for the next
+ * Return_strlen: void 
  */
 
 int _strlen(char *s)
