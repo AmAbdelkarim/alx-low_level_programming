@@ -5,7 +5,7 @@
  *
  * @s: string parameter input
  *
- * Return_strlen: void 
+ * Return: Always 0 (Success)
  */
 
 int _strlen(char *s)
