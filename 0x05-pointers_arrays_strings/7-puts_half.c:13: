@@ -1,0 +1,10 @@
+lf.c:13: WARNING: please, no spaces at the start of a line
+7-puts_half.c:14: ERROR: code indent should use tabs where possible
+7-puts_half.c:14: WARNING: Missing a blank line after declarations
+7-puts_half.c:14: WARNING: please, no spaces at the start of a line
+7-puts_half.c:18: ERROR: code indent should use tabs where possible
+7-puts_half.c:18: WARNING: please, no spaces at the start of a line
+7-puts_half.c:20: ERROR: code indent should use tabs where possible
+7-puts_half.c:20: WARNING: please, no spaces at the start of a line
+7-puts_half.c:21: ERROR: code indent should use tabs where possible
+7-puts_half.c:21: WARNING: please, no spaces at the start of a line
