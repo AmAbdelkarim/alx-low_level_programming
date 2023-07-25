@@ -1,15 +1,22 @@
 #include "main.h"
 
-/**
- * main - check the code
+/*
+ * puts_half - second half of  string
  *
- * Return: Always 0.
+ * @str: char array string type
+ *
+ * Return: Nothing
  */
-int main(void)
-{
-    char *str;
 
-    str = "0123456789";
-    puts_half(str);
-    return (0);
+void puts_half(char *str)
+{
+        int i;
+        for (i = 0; str[i] != '\0'; i++)
+		;
+	i++;
+	for (i /= 2; str[i] != '\0'; i++)
+        {
+		_putchar(str[i]);
+        }
+        _putchar('\n');
 }
