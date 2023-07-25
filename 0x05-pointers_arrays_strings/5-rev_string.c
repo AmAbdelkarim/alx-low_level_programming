@@ -2,15 +2,15 @@
 
 /**
  * rev_string - reversed a string
- * 
+ *
  * @s: string parameter input
- * 
- * Return: nothing 
+ *
+ * Return: nothing
  */
 
 void rev_string(char *s)
 {
-        int l,i;
+	int l, i;
 	char temp;
 
 	/*find string length without null char */
