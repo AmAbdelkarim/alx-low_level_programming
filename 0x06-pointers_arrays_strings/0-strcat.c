@@ -1,7 +1,7 @@
 #include "main.h"
 
 char *_strcat(char *dest, char *src)
-
+{
 	int c, c2;
 
 	c = 0;
@@ -13,4 +13,4 @@ char *_strcat(char *dest, char *src)
 	dest[c++] = src[c2];
 	return (dest);
 
-
+}
